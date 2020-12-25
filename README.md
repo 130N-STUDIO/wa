@@ -1,4 +1,4 @@
-# 🤖Naga-Bot🤖
+# 🤖Leon-Bot🤖
 BOT WHATSAPP TERMUX ONLY BY Sekaii Mod
 
 ### Alat dan Bahan
@@ -69,8 +69,8 @@ Ket: Aktiv 24 jam
 Jika ada kendala hubungi kami..
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (LEON GROUP & NFQ SQUAD)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://youtube.com/channel/UC7di1zjUfd3h4A58a2uscIw) 
-* [`WhatsApp Admin `](https://wa.me/6283807588767)
+* [`Youtube Admin`](https://youtube.com/) 
+* [`WhatsApp Admin `](https://wa.me/628881372457)
